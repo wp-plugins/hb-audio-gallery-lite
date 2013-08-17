@@ -24,10 +24,10 @@ Some of its features are :-
 </ul>
 So what are you waiting for…Just try it today.
 
-<strong>Short code : [hb-single-audio aid="1"]</strong>
+<strong>Short code : [hb-single-audio aid="1"]</strong><br>
 <strong>Lite Plugin</strong> Demo Link :- http://plugins.hbwebsol.com 
 
-Check it out its <strong>PRO version <a href="http://audio.hbwebsol.com/demo" alt="" target="_blank" >HERE</a></strong>.
+Check it out its <strong>PRO version <a href="http://audio.hbwebsol.com/demo" alt="" target="_blank" >HERE</a></strong>.<br>
 <strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com/demo
 
 <strong>PRO Version Features</strong> :-
@@ -55,10 +55,9 @@ Please refer hb-audio-gallery-description.doc file in plugin folder.
 Please refer hb-audio-gallery-description.doc file in plugin folder.
 
 == Frequently Asked Questions ==
-<strong>Short code : [hb-single-audio aid="1"]</strong>
-
-<strong>Lite Plugin</strong> Demo Link :- http://plugins.hbwebsol.com 
-<strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com/demo
+<strong>Short code : [hb-single-audio aid="1"]</strong><br>
+<strong>Lite Plugin</strong> Demo Link :- http://plugins.hbwebsol.com <br>
+<strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com/demo<br>
 Please refer hb-audio-gallery-description.doc file in plugin folder.
  
 == Support ==
