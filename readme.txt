@@ -15,22 +15,20 @@ License: GPLv2
 “HB AUDIO GALLERY LITE” is one of the best available “audio player WordPress plugin” in the market. Admin can easily use this plugin because its provide many good and useful features and facilities, which make the plugin easy to use.
 
 Some of its features are :-
-
 <ul>
 <li>Custom Post Type Support.</li>
 <li>Upload Audio Files by admin section.</li>
 <li>Short codes available for inserting Single Audio.</li>
 <li>Support multiple short codes on single post or page.</li>
 <li>Responsive player, compatible to Phone, Tablets, Laptops etc.</li>
-</ul><br>
-
-So what are you waiting for…Just try it today.<br>
+</ul>
+So what are you waiting for…Just try it today.
 
 <strong>Short code : [hb-single-audio aid="1"]</strong>
+<strong>Lite Plugin</strong> Demo Link :- http://plugins.hbwebsol.com 
 
-<br><hr><br>
-
-Check it out its <strong>PRO version <a href="http://audio.hbwebsol.com/demo" alt="" target="_blank" >HERE</a></strong><br>.
+Check it out its <strong>PRO version <a href="http://audio.hbwebsol.com/demo" alt="" target="_blank" >HERE</a></strong>.
+<strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com/demo
 
 <strong>PRO Version Features</strong> :-
 <ul>
@@ -43,12 +41,12 @@ Check it out its <strong>PRO version <a href="http://audio.hbwebsol.com/demo" al
 <li>User can easily Share Audio file name, Page Title and Page link on Facebook.</li>
 <li>User can easily Share Audio file name, Page Title and Page link on Other social services (You need "Addthis publisher id").</li>
 <li>Responsive player, compatible to Phone, Tablets, Laptops etc.</li>
-</ul><br>
+</ul>
 == Installation ==
 
 Upload the plugin folder to the '/wp-content/plugins/' directory
 
-Activate the plugin through the 'Plugins' menu in WordPress
+Activate the plugin through the 'Plugins' menu in WordPress Admin Area.
 
 == Upgrade Notice ==
 Please refer hb-audio-gallery-description.doc file in plugin folder.
@@ -57,7 +55,10 @@ Please refer hb-audio-gallery-description.doc file in plugin folder.
 Please refer hb-audio-gallery-description.doc file in plugin folder.
 
 == Frequently Asked Questions ==
-Please visit on http://plugins.hbwebsol.com for watching the plugin demo.
+<strong>Short code : [hb-single-audio aid="1"]</strong>
+
+<strong>Lite Plugin</strong> Demo Link :- http://plugins.hbwebsol.com 
+<strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com/demo
 Please refer hb-audio-gallery-description.doc file in plugin folder.
  
 == Support ==
