@@ -4,7 +4,7 @@ An audio gallery and audio player plugin for WordPress by HBWEBSOL.
 
 Contributors: Team HBWEBSOL
 Donate link: http://plugins.hbwebsol.com/buy-me-a-cup-of-tea
-Tags: audio player WordPress, audio player plugin for WordPress, audio player WordPress plugin, audio player for WordPress
+Tags: audio player, audio gallery, mp3 player, music, audio
 Requires at least: 3.3
 Tested up to: 3.6
 Stable tag: 4.3
