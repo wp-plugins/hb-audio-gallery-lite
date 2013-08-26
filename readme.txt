@@ -1,6 +1,6 @@
 === HB AUDIO GALLERY LITE ===
 
-An audio gallery and audio player plugin for WordPress by HBWEBSOL.
+A simple and responsive audio player which supports custom post type, multiple short codes on single post or page. 
 
 Contributors: Team HBWEBSOL
 Donate link: http://plugins.hbwebsol.com/buy-me-a-cup-of-tea
