@@ -27,8 +27,8 @@ So what are you waiting for…Just try it today.
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
 <strong>Lite Plugin</strong> Demo Link :- http://plugins.hbwebsol.com 
 
-Check it out its <strong>PRO version <a href="http://audio.hbwebsol.com/demo" alt="" target="_blank" >HERE</a></strong>.<br>
-<strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com/demo
+Check it out its <strong>PRO version <a href="http://audio.hbwebsol.com" alt="" target="_blank" >HERE</a></strong>.<br>
+<strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com
 
 <strong>PRO Version Features</strong> :-
 <ul>
@@ -57,7 +57,7 @@ Please refer hb-audio-gallery-description.doc file in plugin folder.
 == Frequently Asked Questions ==
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
 <strong>Lite Plugin</strong> Demo Link :- http://plugins.hbwebsol.com <br>
-<strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com/demo<br>
+<strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com<br>
 Please refer hb-audio-gallery-description.doc file in plugin folder.
  
 == Support ==
