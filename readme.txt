@@ -1,6 +1,6 @@
 === HB AUDIO GALLERY LITE ===
 
-A simple and responsive audio player which supports custom post type, multiple short codes on single post or page. 
+A HTML5, simple and responsive audio player which supports custom post type, multiple short codes on single post or page and runs on all Browsers as well as on mobile platforms. 
 
 Contributors: Team HBWEBSOL
 Donate link: http://plugins.hbwebsol.com/buy-me-a-cup-of-tea
@@ -16,11 +16,12 @@ License: GPLv2
 
 Some of its features are :-
 <ul>
+<li>HTML5 Player</li>
 <li>Custom Post Type Support.</li>
 <li>Upload Audio Files by admin section.</li>
 <li>Short codes available for inserting Single Audio.</li>
 <li>Support multiple short codes on single post or page.</li>
-<li>Responsive player, compatible to Phone, Tablets, Laptops etc.</li>
+<li>Responsive player, compatible to IPhone, Ipad, Tablets, Laptops etc.</li>
 </ul>
 So what are you waiting for…Just try it today.
 
