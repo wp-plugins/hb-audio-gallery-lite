@@ -16,12 +16,12 @@ License: GPLv2
 
 Some of its features are :-
 <ul>
-<li>HTML5 Player</li>
+<li>HTML5 Player.</li>
+<li>Responsive player, compatible to IPhone, IPad, Tablets, Laptops etc.</li>
 <li>Custom Post Type Support.</li>
 <li>Upload Audio Files by admin section.</li>
 <li>Short codes available for inserting Single Audio.</li>
 <li>Support multiple short codes on single post or page.</li>
-<li>Responsive player, compatible to IPhone, Ipad, Tablets, Laptops etc.</li>
 </ul>
 So what are you waiting for…Just try it today.
 
@@ -33,6 +33,9 @@ Check it out its <strong>PRO version <a href="http://audio.hbwebsol.com" alt="" 
 
 <strong>PRO Version Features</strong> :-
 <ul>
+<li>HTML5 Player.</li>
+<li>Responsive player, compatible to IPhone, IPad, Tablets, Laptops etc.</li>
+<li>Support Audio Playlist.</li>
 <li>Custom Post Type Support.</li>
 <li>Upload Audio Files by admin section.</li>
 <li>Upload Audio Files directly via FTP. </li>
