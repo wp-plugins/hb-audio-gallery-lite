@@ -46,6 +46,9 @@ Check it out its <strong>PRO version <a href="http://audio.hbwebsol.com" alt="" 
 <li>User can easily Share Audio file name, Page Title and Page link on Other social services (You need "Addthis publisher id").</li>
 <li>Responsive player, compatible to Phone, Tablets, Laptops etc.</li>
 </ul>
+
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/DyzhFnWyiBk&ap=%2526fmt%3D22"></param><param name="wmode" value="window"></param><embed src="http://www.youtube.com/v/DyzhFnWyiBk&ap=%2526fmt%3D22" type="application/x-shockwave-flash" wmode="window" width="480" height="295"></embed></object>
+
 == Installation ==
 
 Upload the plugin folder to the '/wp-content/plugins/' directory
@@ -62,6 +65,9 @@ Please refer hb-audio-gallery-description.doc file in plugin folder.
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
 <strong>Lite Plugin</strong> Demo Link :- http://plugins.hbwebsol.com <br>
 <strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com<br>
+
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/DyzhFnWyiBk&ap=%2526fmt%3D22"></param><param name="wmode" value="window"></param><embed src="http://www.youtube.com/v/DyzhFnWyiBk&ap=%2526fmt%3D22" type="application/x-shockwave-flash" wmode="window" width="480" height="295"></embed></object>
+
 Please refer hb-audio-gallery-description.doc file in plugin folder.
  
 == Support ==
