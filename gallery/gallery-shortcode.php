@@ -91,7 +91,7 @@ function hb_audio_list_in_gallery( $atts ) {
     $file = $base_dir . '/' . $filename;
     $file_size = hb_get_filesize( $audio['audioURL'] );
 
-    $output = '<h3>' . get_the_title($gid) . $remote_pay_version . '</h3>';
+    $output = '<h3>' . get_the_title($gid) . '</h3>';
 
     if( !empty( $gallery ) ) {
         $output .= '<script>
