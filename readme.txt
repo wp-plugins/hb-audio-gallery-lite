@@ -3,7 +3,7 @@
 A HTML5, simple and responsive audio player which supports custom post type, multiple short codes on single post or page and runs on all Browsers as well as on mobile platforms. 
 
 Contributors: Team HBWEBSOL
-Donate link: http://plugins.hbwebsol.com/buy-me-a-cup-of-tea
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TKGW9EJXEM2Z2
 Tags: audio, audio player, audio gallery, media, media player, mp3, mp3 player, music, music player, player, sound, embed
 Requires at least: 3.3
 Tested up to: 3.6
@@ -26,10 +26,10 @@ Some of its features are :-
 So what are you waiting for…Just try it today.
 
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
-<strong>Lite Plugin</strong> Demo Link :- http://plugins.hbwebsol.com 
+<strong>Lite Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-lite
 
-Check it out its <strong>PRO version <a href="http://audio.hbwebsol.com" alt="" target="_blank" >HERE</a></strong>.<br>
-<strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com
+Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a></strong>.<br>
+<strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro
 
 <strong>PRO Version Features</strong> :-
 <ul>
@@ -63,8 +63,8 @@ Please refer hb-audio-gallery-description.doc file in plugin folder.
 
 == Frequently Asked Questions ==
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
-<strong>Lite Plugin</strong> Demo Link :- http://plugins.hbwebsol.com <br>
-<strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com<br>
+<strong>Lite Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-lite <br>
+<strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro <br>
 
 <object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/DyzhFnWyiBk&ap=%2526fmt%3D22"></param><param name="wmode" value="window"></param><embed src="http://www.youtube.com/v/DyzhFnWyiBk&ap=%2526fmt%3D22" type="application/x-shockwave-flash" wmode="window" width="480" height="295"></embed></object>
 
