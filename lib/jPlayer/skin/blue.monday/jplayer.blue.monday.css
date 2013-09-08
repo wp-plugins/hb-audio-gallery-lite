@@ -141,6 +141,8 @@ div.jp-interface ul.jp-controls li {
 	display:inline;
 	float: left;
     margin: 0;
+	padding:0; /*Husain Ali*/
+	background:none; /*Husain Ali*/
 }
 
 div.jp-interface ul.jp-controls a {
@@ -408,11 +410,13 @@ div.jp-playlist ul {
 div.jp-title li {
 	padding:5px 0;
 	font-weight:bold;
+	background:none; /*Husain Ali*/
 }
 div.jp-playlist li {
 	padding:5px 0 4px 20px;
 	border-bottom:1px solid #cccccc;
     margin: 0;
+	background:none; /*Husain Ali*/
 }
 
 div.jp-playlist li div {
@@ -555,6 +559,8 @@ ul.jp-toggles li {
 	display:block;
 	float:right;
     margin: 0;
+	background:none; /*Husain Ali*/
+	padding:0; /*Husain Ali*/
 }
 
 ul.jp-toggles li a {
