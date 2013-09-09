@@ -12,7 +12,7 @@ License: GPLv2
 
 == Description ==
 
-“HB AUDIO GALLERY LITE” is one of the best available “audio player WordPress plugin” in the market. Admin can easily use this plugin because its provide many good and useful features and facilities, which make the plugin easy to use.
+“HB Audio Gallery” is a simple audio Player WordPress plugin which provides you many useful options, with HB Audio Gallery you are capable to manage your own audio gallery website. You can upload big size audio files via FTP (Pro), you can let your website visitors to download (Pro), share (Pro) or play your audio files, you can control everything via admin panel settings. Try it today for creating an easy to manage Audio Gallery (Pro) or Audio Player website.
 
 Some of its features are :-
 <ul>
