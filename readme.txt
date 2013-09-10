@@ -12,7 +12,7 @@ License: GPLv2
 
 == Description ==
 
-“HB Audio Gallery” is a simple audio Player WordPress plugin which provides you many useful options, with HB Audio Gallery you are capable to manage your own audio gallery website. You can upload big size audio files via FTP (Pro), you can let your website visitors to download (Pro), share (Pro) or play your audio files, you can control everything via admin panel settings. Try it today for creating an easy to manage Audio Gallery (Pro) or Audio Player website.
+“HB Audio Gallery” is a HTML5, simple and responsive audio player which supports custom post type, multiple short codes on single post or page and runs on all Browsers as well as on mobile platforms.
 
 Some of its features are :-
 <ul>
@@ -23,12 +23,11 @@ Some of its features are :-
 <li>Short codes available for inserting Single Audio.</li>
 <li>Support multiple short codes on single post or page.</li>
 </ul>
-So what are you waiting for…Just try it today.
 
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
 <strong>Lite Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-lite
 
-Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a></strong>.<br>
+Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 11 USD.</strong>.<br>
 <strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro
 
 <strong>PRO Version Features</strong> :-
@@ -46,6 +45,8 @@ Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-galle
 <li>User can easily Share Audio file name, Page Title and Page link on Other social services (You need "Addthis publisher id").</li>
 <li>Responsive player, compatible to Phone, Tablets, Laptops etc.</li>
 </ul>
+
+<strong>So what are you waiting for, Just try the <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >PRO version</a> Today in only 11 USD.</strong>
 
 <object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/DyzhFnWyiBk&ap=%2526fmt%3D22"></param><param name="wmode" value="window"></param><embed src="http://www.youtube.com/v/DyzhFnWyiBk&ap=%2526fmt%3D22" type="application/x-shockwave-flash" wmode="window" width="480" height="295"></embed></object>
 
