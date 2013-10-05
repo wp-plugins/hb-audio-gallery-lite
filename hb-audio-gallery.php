@@ -355,7 +355,7 @@ class hb_Loader {
 
     function plugin_deactive() {
 
-        if ( get_option( 'hb_ag_options' ) != false ) {
+        /*if ( get_option( 'hb_ag_options' ) != false ) {
             delete_option( 'hb_ag_options' );
         }
 
@@ -363,7 +363,7 @@ class hb_Loader {
 
         hb_db_delete_audiogallery_post();
 
-        hb_remove_dir( AG_UPLOAD_DIR );
+        hb_remove_dir( AG_UPLOAD_DIR );*/ /*Husain Ali as on 04-10-13*/
     }
 
 
@@ -374,6 +374,10 @@ class hb_Loader {
         }
 
         hb_db_delete_table();
+		
+		hb_db_delete_audiogallery_post(); //Husain Ali as on 04-10-13
+
+        hb_remove_dir( AG_UPLOAD_DIR ); //Husain Ali as on 04-10-13
     }
 
 
