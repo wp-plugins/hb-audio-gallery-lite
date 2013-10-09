@@ -27,6 +27,8 @@ Some of its features are :-
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
 <strong>Lite Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-lite
 
+<strong>Plugin Doc</strong> :- http://www.hbwebsol.com/docs
+
 Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 11 USD.</strong>.<br>
 <strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro
 
@@ -64,10 +66,12 @@ Please refer hb-audio-gallery-description.doc file in plugin folder.
 
 == Frequently Asked Questions ==
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
+
 <strong>Lite Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-lite <br>
+
 <strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro <br>
 
-<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/DyzhFnWyiBk&ap=%2526fmt%3D22"></param><param name="wmode" value="window"></param><embed src="http://www.youtube.com/v/DyzhFnWyiBk&ap=%2526fmt%3D22" type="application/x-shockwave-flash" wmode="window" width="480" height="295"></embed></object>
+<strong>Plugin Doc</strong> :- http://www.hbwebsol.com/docs
 
 Please refer hb-audio-gallery-description.doc file in plugin folder.
  
