@@ -29,7 +29,7 @@ Some of its features are :-
 
 <strong>Plugin Doc</strong> :- http://www.hbwebsol.com/docs
 
-Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 15 USD.</strong>.<br>
+Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 11 USD.</strong>.<br>
 <strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro
 
 <strong>PRO Version Features</strong> :-
