@@ -11,6 +11,7 @@ Stable tag: 4.3
 License: GPLv2
 
 == Description ==
+
 If you need any help, if you have any suggestion then you can Email us on <a href="mailto:info@hbwebsol.com" target="_blank">info@hbwebsol.com</a>
 
 “HB Audio Gallery” is a HTML5, simple and responsive audio player which supports custom post type, multiple short codes on single post or page and runs on all Browsers as well as on mobile platforms.
@@ -52,8 +53,6 @@ Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-galle
 </ul>
 
 <strong>So what are you waiting for, Just try the <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >PRO version</a> Today in only 11 USD.</strong>
-
-<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/DyzhFnWyiBk&ap=%2526fmt%3D22"></param><param name="wmode" value="window"></param><embed src="http://www.youtube.com/v/DyzhFnWyiBk&ap=%2526fmt%3D22" type="application/x-shockwave-flash" wmode="window" width="480" height="295"></embed></object>
 
 == Installation ==
 
