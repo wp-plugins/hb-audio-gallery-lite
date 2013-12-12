@@ -24,12 +24,12 @@ Some of its features are :-
 <li>Support multiple short codes on single post or page.</li>
 </ul>
 <br>
-<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/22P7JB9LfvE" frameborder="0" allowfullscreen></iframe>
+<div class="video"><object width="560" height="315"><param name="movie" value="//www.youtube-nocookie.com/v/22P7JB9LfvE?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube-nocookie.com/v/22P7JB9LfvE?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
 <br>
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
 <strong>Lite Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-lite
 
-<strong>Plugin Doc</strong> :- http://www.hbwebsol.com/docs
+<strong>Latest and Update Plugin Doc</strong> :- http://www.hbwebsol.com/docs
 
 Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 11 USD.</strong>.<br>
 <strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro
