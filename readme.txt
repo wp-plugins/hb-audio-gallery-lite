@@ -6,7 +6,7 @@ Contributors: Team HBWEBSOL
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TKGW9EJXEM2Z2
 Tags: audio, audio player, audio gallery, media, media player, mp3, mp3 player, music, music player, player, sound, embed
 Requires at least: 3.3
-Tested up to: 3.6
+Tested up to: 3.8
 Stable tag: 4.3
 License: GPLv2
 
@@ -23,7 +23,9 @@ Some of its features are :-
 <li>Short codes available for inserting Single Audio.</li>
 <li>Support multiple short codes on single post or page.</li>
 </ul>
-
+<br>
+<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/22P7JB9LfvE" frameborder="0" allowfullscreen></iframe>
+<br>
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
 <strong>Lite Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-lite
 
