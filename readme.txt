@@ -11,6 +11,7 @@ Stable tag: 4.3
 License: GPLv2
 
 == Description ==
+If you need any help, if you have any suggestion then you can Email us on <a href="mailto:info@hbwebsol.com" target="_blank">info@hbwebsol.com</a>
 
 “HB Audio Gallery” is a HTML5, simple and responsive audio player which supports custom post type, multiple short codes on single post or page and runs on all Browsers as well as on mobile platforms.
 
@@ -23,13 +24,13 @@ Some of its features are :-
 <li>Short codes available for inserting Single Audio.</li>
 <li>Support multiple short codes on single post or page.</li>
 </ul>
-<br>
-<div class="video"><object width="560" height="315"><param name="movie" value="//www.youtube-nocookie.com/v/22P7JB9LfvE?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube-nocookie.com/v/22P7JB9LfvE?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
-<br>
-<strong>Short code : [hb-single-audio aid="1"]</strong><br>
-<strong>Lite Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-lite
 
 <strong>Latest and Update Plugin Doc</strong> :- http://www.hbwebsol.com/docs
+
+[youtube http://www.youtube.com/watch?v=22P7JB9LfvE]
+
+<strong>Short code : [hb-single-audio aid="1"]</strong><br>
+<strong>Lite Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-lite
 
 Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 11 USD.</strong>.<br>
 <strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro
