@@ -12,6 +12,9 @@ License: GPLv2
 
 == Description ==
 
+Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 6 USD.</strong>.<br>
+<strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro
+
 If you need any help, if you have any suggestion then you can Email us on <a href="mailto:info@hbwebsol.com" target="_blank">info@hbwebsol.com</a>
 
 “HB Audio Gallery” is a HTML5, simple and responsive audio player which supports custom post type, multiple short codes on single post or page and runs on all Browsers as well as on mobile platforms.
@@ -33,12 +36,8 @@ Some of its features are :-
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
 <strong>Lite Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-lite
 
-Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 11 USD.</strong>.<br>
-<strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro
-
 <strong>PRO Version Features</strong> :-
-<ul>
-<li>HTML5 Player.</li>
+<ul><li>HTML5 Player.</li>
 <li>Responsive player, compatible to IPhone, IPad, Tablets, Laptops etc.</li>
 <li>Support Audio Playlist.</li>
 <li>Custom Post Type Support.</li>
@@ -52,7 +51,7 @@ Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-galle
 <li>Responsive player, compatible to Phone, Tablets, Laptops etc.</li>
 </ul>
 
-<strong>So what are you waiting for, Just try the <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >PRO version</a> Today in only 11 USD.</strong>
+<strong>So what are you waiting for, Just try the <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >PRO version</a> Today in only 6 USD USD.</strong>
 
 == Installation ==
 
