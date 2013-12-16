@@ -12,7 +12,7 @@ License: GPLv2
 
 == Description ==
 
-Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 6 USD.</strong>.<br>
+Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 29 USD.</strong>.<br>
 <strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro
 
 If you need any help, if you have any suggestion then you can Email us on <a href="mailto:info@hbwebsol.com" target="_blank">info@hbwebsol.com</a>
@@ -51,7 +51,7 @@ Some of its features are :-
 <li>Responsive player, compatible to Phone, Tablets, Laptops etc.</li>
 </ul>
 
-<strong>So what are you waiting for, Just try the <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >PRO version</a> Today in only 6 USD USD.</strong>
+<strong>So what are you waiting for, Just try the <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >PRO version</a> Today in only 29 USD.</strong>
 
 == Installation ==
 
