@@ -12,8 +12,8 @@ License: GPLv2
 
 == Description ==
 
-Check it out its <strong>PRO version <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 6 USD.</strong>.<br>
-<strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro
+Check it out its <strong>PRO version <a href="http://audio.hbwebsol.com/demo" alt="" target="_blank" >HERE</a>, In just 6 USD.</strong>.<br>
+<strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com/demo
 
 If you need any help, if you have any suggestion then you can Email us on <a href="mailto:info@hbwebsol.com" target="_blank">info@hbwebsol.com</a>
 
@@ -34,7 +34,7 @@ Some of its features are :-
 [youtube http://www.youtube.com/watch?v=22P7JB9LfvE]
 
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
-<strong>Lite Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-lite
+<strong>Lite Plugin</strong> Demo Link :- http://plugins.hbwebsol.com/demo
 
 <strong>PRO Version Features</strong> :-
 <ul><li>HTML5 Player.</li>
@@ -51,7 +51,7 @@ Some of its features are :-
 <li>Responsive player, compatible to Phone, Tablets, Laptops etc.</li>
 </ul>
 
-<strong>So what are you waiting for, Just try the <a href="http://hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >PRO version</a> Today in only 6 USD.</strong>
+<strong>So what are you waiting for, Just try the <a href="http://audio.hbwebsol.com/demo" alt="" target="_blank" >PRO version</a> Today in only 6 USD.</strong>
 
 == Installation ==
 
@@ -68,9 +68,9 @@ Please refer hb-audio-gallery-description.doc file in plugin folder.
 == Frequently Asked Questions ==
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
 
-<strong>Lite Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-lite <br>
+<strong>Lite Plugin</strong> Demo Link :- http://plugins.hbwebsol.com/demo <br>
 
-<strong>Pro Plugin</strong> Demo Link :- http://hbwebsol.com/hb-audio-gallery-pro <br>
+<strong>Pro Plugin</strong> Demo Link :- http://audio.hbwebsol.com/demo <br>
 
 <strong>Plugin Doc</strong> :- http://www.hbwebsol.com/docs
 
