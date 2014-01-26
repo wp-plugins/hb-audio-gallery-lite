@@ -335,8 +335,6 @@ class hb_gallery {
 
         <script type="text/javascript">
 
-            var $=jQuery;
-
             if (typeof addthis_config !== "undefined") {
 
                 addthis_config.data_track_addressbar = false,
@@ -365,9 +363,9 @@ class hb_gallery {
 
 
 
-            $(document).ready(function(){
+            jQuery(document).ready(function(){
 
-                $("a.addthis_button").hover(function(){
+                jQuery("a.addthis_button").hover(function(){
 
                     var audio_title = $(this).attr("addthis:title");
 
@@ -375,9 +373,9 @@ class hb_gallery {
 
                     var audio_url = page_url + "&title=" + audio_title;
 
-                    $("#hb-title-meta").attr("content", audio_title);
+                    jQuery("#hb-title-meta").attr("content", audio_title);
 
-                    $("#hb-url-meta").attr("content", audio_url);
+                    jQuery("#hb-url-meta").attr("content", audio_url);
 
                 });
 

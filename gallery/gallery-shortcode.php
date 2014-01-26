@@ -23,15 +23,13 @@ function hb_single_audio( $atts ) {
 
                         //<![CDATA[
 
-                        $(document).ready(function(){
+                        jQuery(document).ready(function(){
 
-
-
-                            $("#jquery_jplayer_s' . $aid . '").jPlayer({
+                            jQuery("#jquery_jplayer_s' . $aid . '").jPlayer({
 
                                 ready: function () {
 
-                                    $(this).jPlayer("setMedia", {
+                                    jQuery(this).jPlayer("setMedia", {
 
                                         mp3:"' . $audio['audioURL'] . '"
 
