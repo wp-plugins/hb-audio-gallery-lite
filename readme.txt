@@ -20,15 +20,13 @@ If you need any help, if you have any suggestion then you can Email us on <a hre
 
 “HB Audio Gallery” is a HTML5, simple and responsive audio player which supports custom post type, multiple short codes on single post or page and runs on all Browsers as well as on mobile platforms.
 
-Some of its features are :-
-<ul>
-<li>HTML5 Player.</li>
+Some of its features are :-<ul><li>HTML5 Player.</li>
 <li>Responsive player, compatible to IPhone, IPad, Tablets, Laptops etc.</li>
 <li>Custom Post Type Support.</li>
 <li>Upload Audio Files by admin section.</li>
 <li>Short codes available for inserting Single Audio.</li>
 <li>Support multiple short codes on single post or page.</li>
-</ul>
+<li>Compatible with other JavaScript libraries.</li></ul>
 
 <strong>Latest and Update Plugin Doc</strong> :- http://www.hbwebsol.com/docs
 
@@ -37,8 +35,7 @@ Some of its features are :-
 <strong>Short code : [hb-single-audio aid="1"]</strong><br>
 <strong>Lite Plugin</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-lite
 
-<strong>PRO Version Features</strong> :-
-<ul><li>HTML5 Player.</li>
+<strong>PRO Version Features</strong> :-<ul><li>HTML5 Player.</li>
 <li>Responsive player, compatible to IPhone, IPad, Tablets, Laptops etc.</li>
 <li>Support Audio Playlist.</li>
 <li>Custom Post Type Support.</li>
@@ -50,7 +47,7 @@ Some of its features are :-
 <li>User can easily Share Audio file name, Page Title and Page link on Facebook.</li>
 <li>User can easily Share Audio file name, Page Title and Page link on Other social services (You need "Addthis publisher id").</li>
 <li>Responsive player, compatible to Phone, Tablets, Laptops etc.</li>
-</ul>
+<li>Compatible with other JavaScript libraries.</li></ul>
 
 <strong>So what are you waiting for, Just try the <a href="http://www.hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >PRO version</a> Today in only 6 USD.</strong>
 
