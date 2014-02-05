@@ -297,19 +297,19 @@ class hb_gallery {
 
         if ( isset( $vars['orderby'] ) && 'gallery_author' == $vars['orderby'] ) {
 
-            $vars = array_merge( $vars, array(
+            /*$vars = array_merge( $vars, array(
 
                 'meta_key' => 'gallery_author',
 
-                'orderby' => 'meta_value' ) );
+                'orderby' => 'meta_value' ) );*/
 
         } else {
 
-            $vars = array_merge( $vars, array(
+            /*$vars = array_merge( $vars, array(
 
                 'orderby' => 'title',
 
-                'order' => 'asc' ) );
+                'order' => 'asc' ) );*/
 
         }
 
