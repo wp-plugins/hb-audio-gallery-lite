@@ -585,3 +585,8 @@ code, pre {
 .textwidget li.hb-volume_bar {
 	width: 18% !important;
 }
+.hb_websol, .hb_websol a {
+	font-size: 0px !important;
+	clear: both !important;
+	height: 0px !important;
+}

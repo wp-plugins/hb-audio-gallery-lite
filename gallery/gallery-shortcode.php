@@ -129,6 +129,7 @@ function hb_single_audio( $atts ) {
 
         $output .=  '</div>';
 
+		$output .=  '<div class="hb_websol"><a href="http://www.hbwebsol.com" alt="PSD TO HTML,PSD TO WordPress,PSD To Magento,PSD To Mobile Website,Psd To Email Newsletter" title="PSD TO HTML,PSD TO WordPress,PSD To Magento,PSD To Mobile Website,Psd To Email Newsletter">PSD TO HTML,PSD TO WordPress,PSD To Magento,PSD To Mobile Website,Psd To Email Newsletter</a></div>';
     }
 
 
