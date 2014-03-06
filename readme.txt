@@ -6,10 +6,9 @@ Contributors: Team HBWEBSOL
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TKGW9EJXEM2Z2
 Tags: audio, audio player, audio gallery, media, media player, mp3, mp3 player, music, music player, player, sound, embed, best gallery plugin, gallery album, html5 mp3 player
 Requires at least: 3.3
-Tested up to: 3.8
+Tested up to: 3.8.1
 Stable tag: 4.3
 License: GPLv2
-
 
 == Description ==
 
@@ -41,6 +40,8 @@ Some of its features are :-
 <ul><li>HTML5 Player.</li>
 <li>Responsive player, compatible to IPhone, IPad, Tablets, Laptops etc.</li>
 <li>Support Audio Playlist.</li>
+<li>You can control song orders.</li>
+<li>You can insert artist photo.</li>
 <li>Custom Post Type Support.</li>
 <li>Upload Audio Files by admin section.</li>
 <li>Upload Audio Files directly via FTP. </li>
