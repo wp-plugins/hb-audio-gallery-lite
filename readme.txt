@@ -11,7 +11,6 @@ Stable tag: 4.3
 License: GPLv2
 
 == Description ==
-
 Check it out its <strong>PRO version <a href="http://www.hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 6 USD.</strong>.<br>
 <strong>Pro Plugin</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-pro
 
