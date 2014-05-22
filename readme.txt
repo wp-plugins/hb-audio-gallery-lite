@@ -4,9 +4,9 @@ A HTML5 based, simple and responsive audio player plugin which supports custom p
 
 Contributors: Team HBWEBSOL
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TKGW9EJXEM2Z2
-Tags: audio, audio player, audio gallery, media, media player, mp3, mp3 player, music, music player, player, sound, embed, best gallery plugin, gallery album, html5 mp3 player
+Tags: audio, audio player, audio gallery, media, media player, mp3, mp3 player, music, music player, player, sound, embed, best gallery plugin, gallery album, html5 mp3 player, playlist
 Requires at least: 3.3
-Tested up to: 3.9
+Tested up to: 3.9.1
 Stable tag: 4.3
 License: GPLv2
 
