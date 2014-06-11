@@ -14,6 +14,9 @@ License: GPLv2
 <strong>Single Audio Player Short code : [hb-single-audio aid="(Song ID)"]</strong><br>
 <strong>HB Audio Gallery Lite Plugin</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-lite
 
+Take a look on All New <strong>HB Audio Gallery PRO version <a href="http://www.hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 6 USD.</strong>.<br>
+<strong>HB Audio Gallery Pro Plugin</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-pro
+
 “HB Audio Gallery Lite” is a HTML5 based, simple and responsive audio player plugin which supports custom post type, short codes (Only Single Audio Player Short code available in lite version) and runs on all Browsers as well as on mobile platforms.
 
 <div>Some of its features are :-
@@ -26,9 +29,6 @@ License: GPLv2
 <li>Compatible with other JavaScript libraries.</li></ul></div>
 
 [youtube http://www.youtube.com/watch?v=22P7JB9LfvE]
-
-Take a look on All New <strong>HB Audio Gallery PRO version <a href="http://www.hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 6 USD.</strong>.<br>
-<strong>HB Audio Gallery Pro Plugin</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-pro
 
 <div><strong>PRO Version's Extra Features</strong> :-
 <ul><li>Support Audio Play list.</li>
