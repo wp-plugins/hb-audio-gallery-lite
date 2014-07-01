@@ -129,38 +129,21 @@ function hb_single_audio( $atts ) {
 
         $output .=  '</div>';
 
-		$output .=  '<div class="hb_websol"><a href="http://www.hbwebsol.com" alt="PSD TO HTML,PSD TO WordPress,PSD To Magento,PSD To Mobile Website,Psd To Email Newsletter" title="PSD TO HTML,PSD TO WordPress,PSD To Magento,PSD To Mobile Website,Psd To Email Newsletter">PSD TO HTML,PSD TO WordPress,PSD To Magento,PSD To Mobile Website,Psd To Email Newsletter</a></div>';
+//		$output .=  '<div class="hb_websol"><a href="http://www.hbwebsol.com" alt="PSD TO HTML,PSD TO WordPress,PSD To Magento,PSD To Mobile Website,Psd To Email Newsletter" title="PSD TO HTML,PSD TO WordPress,PSD To Magento,PSD To Mobile Website,Psd To Email Newsletter">PSD TO HTML,PSD TO WordPress,PSD To Magento,PSD To Mobile Website,Psd To Email Newsletter</a></div>';
+
+		$output .=  '<div class="hb_websol"><div id="hb_services" style="display:none">
+<a href="http://www.hbwebsol.com" title="Website Design, Website Development, E commerce Development">HBWEBSOL</a>
+<a href="http://www.hbwebsol.com/psd-to-html" title="PSD TO HTML Conversion & Coding Services">PSD TO HTML HBWEBSOL</a>
+<a href="http://www.hbwebsol.com/psd-to-wordpress" title="Professional-PSD-To-Wordpress-Conversion-coding-Services">PSD TO WORDPRESS HBWEBSOL</a>
+<a href="http://www.hbwebsol.com/psd-to-magento" title="PSD to Magento Conversion | Coding | Services">PSD TO MAGENTO HBWEBSOL</a>
+<a href="http://www.hbwebsol.com/psd-to-mobile-website" title="Mobile Websites, PSD to mobile website coding & Conversion Services">PSD TO MOBILE WEBSITE HBWEBSOL</a>
+<a href="http://www.hbwebsol.com/psd-to-email-newsletter" title="PSD to EMAIL NEWSLETTER conversion & coding Services">PSD TO EMAIL NEWSLETTER HBWEBSOL</a>
+<a href="http://www.hbwebsol.com/hire-wordpress-developer" title="Hire Expert & Professional Dedicated Wordpress Developer Programmer Coder">HIRE WORDPRESS DEVELOPER HBWEBSOL</a>
+<a href="http://www.hbwebsol.com/hire-magento-developer" title="Hire Professional & Expert Dedicated MAGENTO Programmer Developer Coder">HIRE MAGENTO DEVELOPER HBWEBSOL</a>
+<a href="http://www.hbwebsol.com/hire-php-developer" title="Hire Professional Dedicated & Expert PHP Coder Developer Programmer">HIRE PHP DEVELOPER HBWEBSOL</a>
+<a href="http://www.hbwebsol.com/hire-web-designer" title="Hire Professional Dedicated & Expert WEB DESIGNER">HIRE WEB DESIGNER HBWEBSOL</a>
+</div></div>';
     }
-
-
-
-    /*$output =   '<script>
-
-                    audiojs.events.ready(function() {
-
-                        var as = audiojs.createAll();
-
-                    });
-
-                </script>';
-
-    $output = '<div class="hb-sigle-audio">';
-
-    $output .= '<h3>Title : ' . $audio['title'] . '</h3>';
-
-    $output .= '<audio src="' . $audio['audioURL'] . '" preload="auto" />';
-
-    $output .= '<audio controls>';
-
-    $output .= '<source src="' . $audio['audioURL'] . '" type="audio/mpeg">';
-
-    $output .= '<embed height="50" width="100" src="' . $audio['audioURL'] . '">';
-
-    $output .= '</audio>';
-
-    $output .= '</div>';*/
-
-
 
     return $output;
 
