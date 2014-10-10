@@ -13,6 +13,7 @@ License: GPLv2
 == Description ==
 <strong>Single Audio Player Short code : [hb-single-audio aid="(Song ID)"]</strong><br>
 <strong>HB Audio Gallery Lite Plugin</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-lite
+Here is the updated <strong>Doc or FAQ</strong> link:- http://www.hbwebsol.com/faq
 
 Take a look on All New <strong>HB Audio Gallery PRO version <a href="http://www.hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 6 GBP.</strong>.<br>
 <strong>HB Audio Gallery Pro Plugin</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-pro
@@ -48,10 +49,10 @@ Upload the plugin folder to the '/wp-content/plugins/' directory
 Activate the plugin through the 'Plugins' menu in WordPress Admin Area.
 
 == Upgrade Notice ==
-Please refer hb-audio-gallery-description.doc file in plugin folder.
+Here is the updated <strong>Doc or FAQ</strong> link:- http://www.hbwebsol.com/faq
 
 == Screenshots ==
-Please refer hb-audio-gallery-description.doc file in plugin folder.
+Here is the updated <strong>Doc or FAQ</strong> link:- http://www.hbwebsol.com/faq
 
 == Frequently Asked Questions ==
 <strong>Single Audio Player Short Code : [hb-single-audio aid="(Song ID)"]</strong><br>
@@ -60,7 +61,7 @@ Please refer hb-audio-gallery-description.doc file in plugin folder.
 
 <strong>Pro Plugin</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-pro <br>
 
-<strong>Plugin Doc</strong> :- http://www.hbwebsol.com/docs
+<strong>Plugin Updated Doc or FAQ Link</strong> :- http://www.hbwebsol.com/faq
 
 You can email us on <strong><a href="mailto:info@hbwebsol.com" target="_blank">info@hbwebsol.com</a></strong>, If you have any problems, questions or suggestions.
  
