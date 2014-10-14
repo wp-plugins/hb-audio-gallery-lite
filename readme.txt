@@ -13,34 +13,32 @@ License: GPLv2
 == Description ==
 <strong>Single Audio Player Short code : [hb-single-audio aid="(Song ID)"]</strong><br>
 <strong>HB Audio Gallery Lite Plugin</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-lite
-Here is the updated <strong>Doc or FAQ</strong> link:- http://www.hbwebsol.com/faq
-
-Take a look on All New <strong>HB Audio Gallery PRO version <a href="http://www.hbwebsol.com/hb-audio-gallery-pro" alt="" target="_blank" >HERE</a>, In just 6 GBP.</strong>.<br>
 <strong>HB Audio Gallery Pro Plugin</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-pro
 
-“HB Audio Gallery Lite” is a HTML5 based, simple and responsive audio player plugin which supports custom post type, short codes (Only Single Audio Player Short code available in lite version) and runs on all Browsers as well as on mobile platforms.
+Here is the updated <strong>Doc or FAQ or Screen shots</strong> link:- http://www.hbwebsol.com/faqs
+
+“HB Audio Gallery Lite” is a <strong>HTML5 based</strong>, simple and <strong>responsive audio player</strong> plugin which supports <strong>custom post type</strong>, <strong>short codes</strong> (Only Single Audio Player Short code available in lite version) and runs on all Browsers as well as on mobile platforms.
 
 <div>Some of its features are :-
 <ul><li>HTML5 based Audio Player.</li>
-<li>Responsive Audio Player, compatible to IPhone, IPad, Tablets, Laptops etc.</li>
+<li>Responsive Audio Player, compatible to Phone, Tablets, Laptops etc.</li>
 <li>Custom Post Type Support.</li>
 <li>Upload Audio Files by WordPress admin section.</li>
 <li>Short code available for inserting Single Audio Player.</li>
 <li>Support multiple short codes on single post or page.</li>
 <li>Compatible with other JavaScript libraries.</li></ul></div>
 
-[youtube http://www.youtube.com/watch?v=22P7JB9LfvE]
-
 <div><strong>PRO Version's Extra Features</strong> :-
-<ul><li>Support Audio Play list.</li>
-<li>You can control song orders.</li>
-<li>You can insert artist photo.</li>
-<li>You can also upload Audio Files directly via FTP using (Filezilla etc.).</li>
+<ul><li>Support <strong>Audio Play list</strong>.</li>
+<li>You can control <strong>song orders</strong>.</li>
+<li>You can insert <strong>artist photo</strong>.</li>
+<li>You can <strong>upload Large Audio Files</strong> directly via FTP using (Filezilla etc.).</li>
 <li>Short codes available for inserting Single Audio Player, Audio Gallery Player (With Play list), Gallery lists.</li>
 <li>User can easily download Audio files, simply by pressing Download button icon (Setting Available).</li>
 <li>User can easily Share Audio Song Title and Page link on Facebook (Setting Available).</li>
-<li>User can easily Share Audio Song Title and Page link on Other social services (You need "Addthis publisher id") (Setting Available).</li>
-<li>Compatible with other JavaScript libraries.</li></ul></div>
+<li>User can easily Share Audio Song Title and Page link on Other social services (You need "Addthis publisher id") (Setting Available).</li></ul></div>
+
+[youtube http://www.youtube.com/watch?v=22P7JB9LfvE]
 
 == Installation ==
 
@@ -48,11 +46,13 @@ Upload the plugin folder to the '/wp-content/plugins/' directory
 
 Activate the plugin through the 'Plugins' menu in WordPress Admin Area.
 
+For more information, please visit our FAQ section http://www.hbwebsol.com/faqs
+
 == Upgrade Notice ==
-Here is the updated <strong>Doc or FAQ</strong> link:- http://www.hbwebsol.com/faq
+Here is the updated <strong>Doc or FAQ</strong> link:- http://www.hbwebsol.com/faqs
 
 == Screenshots ==
-Here is the updated <strong>Doc or FAQ</strong> link:- http://www.hbwebsol.com/faq
+Here is the updated <strong>Doc or FAQ or Screen shots</strong> link:- http://www.hbwebsol.com/faqs
 
 == Frequently Asked Questions ==
 <strong>Single Audio Player Short Code : [hb-single-audio aid="(Song ID)"]</strong><br>
@@ -61,7 +61,7 @@ Here is the updated <strong>Doc or FAQ</strong> link:- http://www.hbwebsol.com/f
 
 <strong>Pro Plugin</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-pro <br>
 
-<strong>Plugin Updated Doc or FAQ Link</strong> :- http://www.hbwebsol.com/faq
+<strong>Plugin Updated Doc or FAQ Link</strong> :- http://www.hbwebsol.com/faqs
 
 You can email us on <strong><a href="mailto:info@hbwebsol.com" target="_blank">info@hbwebsol.com</a></strong>, If you have any problems, questions or suggestions.
  
