@@ -34,9 +34,9 @@ Here is the updated <strong>Doc or FAQ or Screen shots</strong> link:- http://ww
 <li>You can insert <strong>artist photo</strong>.</li>
 <li>You can <strong>upload Large Audio Files</strong> directly via FTP using (Filezilla etc.).</li>
 <li>Short codes available for inserting Single Audio Player, Audio Gallery Player (With Play list), Gallery lists.</li>
-<li>User can easily download Audio files, simply by pressing Download button icon (Setting Available).</li>
-<li>User can easily Share Audio Song Title and Page link on Facebook (Setting Available).</li>
-<li>User can easily Share Audio Song Title and Page link on Other social services (You need "Addthis publisher id") (Setting Available).</li></ul></div>
+<li>User can easily <strong>download Audio files</strong>, simply by pressing Download button icon (Setting Available).</li>
+<li>User can easily <strong>Share</strong> Audio Song Title and Page link <strong>on Facebook</strong> (Setting Available).</li>
+<li>User can easily <strong>Share</strong> Audio Song Title and Page link <strong>on Other Social Services</strong> (You need "Addthis publisher id") (Setting Available).</li></ul></div>
 
 [youtube http://www.youtube.com/watch?v=22P7JB9LfvE]
 
