@@ -17,7 +17,7 @@ License: GPLv2
 
 Here is the updated <strong>Doc or FAQ or Screen shots</strong> link:- http://www.hbwebsol.com/faqs
 
-“HB Audio Gallery Lite” is a <strong>HTML5 based</strong>, simple and <strong>responsive audio player</strong> plugin which supports <strong>custom post type</strong>, <strong>short codes</strong> (Only Single Audio Player Short code available in lite version) and runs on all Browsers as well as on mobile platforms.
+“HB Audio Gallery Lite” is a <strong>HTML5 based</strong> simple and <strong>responsive audio player</strong> plugin which supports <strong>custom post type</strong>, <strong>short codes</strong> (Only Single Audio Player Short code available in lite version) and runs on all Browsers as well as on mobile platforms.
 
 <div>Some of its features are :-
 <ul><li>HTML5 based Audio Player.</li>
