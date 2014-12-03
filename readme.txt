@@ -38,8 +38,6 @@ Here is the updated <strong>Doc or FAQ or Screen shots</strong> link:- http://ww
 <li>User can easily <strong>Share</strong> Audio Song Title and Page link <strong>on Facebook</strong> (Setting Available).</li>
 <li>User can easily <strong>Share</strong> Audio Song Title and Page link <strong>on Other Social Services</strong> (You need "Addthis publisher id") (Setting Available).</li></ul></div>
 
-[youtube http://www.youtube.com/watch?v=22P7JB9LfvE]
-
 == Installation ==
 
 Upload the plugin folder to the '/wp-content/plugins/' directory
