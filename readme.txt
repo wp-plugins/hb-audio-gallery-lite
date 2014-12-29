@@ -28,7 +28,7 @@ Here is the updated <strong>Doc or FAQ or Screen shots</strong> link:- http://ww
 <li>Support multiple short codes on single post or page.</li>
 <li>Compatible with other JavaScript libraries.</li></ul></div>
 
-<div><strong>PRO Version's Extra Features</strong> :-
+<div><strong>PRO Version's Extra Features (Only in 10 USD)</strong> :-
 <ul><li>Support <strong>Audio Play list</strong>.</li>
 <li>You can control <strong>song orders</strong>.</li>
 <li>You can insert <strong>artist photo</strong>.</li>
