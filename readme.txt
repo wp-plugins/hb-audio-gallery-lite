@@ -12,7 +12,7 @@ License: GPLv2
 
 == Description ==
 <strong>Single Audio Player Short code : [hb-single-audio aid="(Song ID)"]</strong><br>
-<strong>HB Audio Gallery Lite</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-lite
+<strong>HB Audio Gallery Lite</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-lite <br>
 <strong>HB Audio Gallery Pro</strong> Demo Link :- http://www.hbwebsol.com/hb-audio-gallery-pro
 
 Here is the updated <strong>Doc or FAQ or Screen shots</strong> link:- http://www.hbwebsol.com/faqs
